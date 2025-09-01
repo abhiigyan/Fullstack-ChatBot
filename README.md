@@ -1,6 +1,6 @@
 # Fullstack AI Chatbot with OpenAI
 
-![Chatbot Demo](./demo.png) A complete, full-stack chatbot application built with the MERN stack (MongoDB, Express, React, Node.js) and powered by the OpenAI API. This project features a modern, responsive user interface, secure user authentication, and persistent conversation history.
+A complete, full-stack chatbot application built with the MERN stack (MongoDB, Express, React, Node.js) and powered by the OpenAI API. This project features a modern, responsive user interface, secure user authentication, and persistent conversation history.
 ## 🌟 Key Features
 
 -   **Intelligent Conversations:** Leverages the power of OpenAI's models to provide human-like, context-aware responses.
