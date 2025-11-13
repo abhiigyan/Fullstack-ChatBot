@@ -39,5 +39,5 @@ Make sure you have the following installed on your system:
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/stephensanwo/fullstack-ai-chatbot.git](https://github.com/stephensanwo/fullstack-ai-chatbot.git)
+git clone [https://github.com/abhiigyan/Fullstack-ChatBot.git](https://github.com/stephensanwo/fullstack-ai-chatbot.git)
 cd fullstack-ai-chatbot
